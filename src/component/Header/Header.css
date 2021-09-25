@@ -1,0 +1,25 @@
+.header img{
+    height: 80px;
+    width: 288px;
+}
+.navsearch{
+    background-color: black;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    
+}
+.header nav a{
+    text-decoration: none;
+    padding:10px ;
+    color: white;
+    line-height: 50px;
+}
+.input{
+    width: 800px;
+    height: 25px;
+}
+.icon{
+    color:white;
+    font-size: 25px;
+    margin-left: 20px;
+}

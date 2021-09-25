@@ -1,0 +1,23 @@
+.product{
+    display: flex;
+    border-bottom:1px solid black ;
+    margin-left: 150px;  
+    padding-bottom: 10px;
+}
+.product-details{
+    text-align: left;
+    margin-left: 20px;
+}
+.product-details h4{
+    color:blue ;
+   font-size: 16px;
+
+}
+.purchase-btn{
+    background-color: #f0c14b;
+    width: 150px;
+    height: 30px;
+    padding: 0 10px;
+    border: 1px solid rgb(134, 126, 126);
+    border-radius: 3px;
+}
